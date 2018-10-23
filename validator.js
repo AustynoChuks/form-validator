@@ -1,8 +1,7 @@
   /*
   GENERAL-PURPOSE FORM VALIDATION SCRIPT
-  EL ACADEMY
   BY   E W U R U M   A U G U S T I N E   C H U K W U D I
-  E M A I L : ewurumaugustine@gmail.com
+  E M A I L : ewurumaugustine@gmail.com, ewurumaugustine@yahoo.com
   T E L   : +2347033430969, +2348127052871
   
   */
